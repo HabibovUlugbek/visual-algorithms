@@ -1,0 +1,16 @@
+{
+  "name": "pathfinding_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watchify /Users/ulugbekxabibov/Desktop/personal/visual/public/browser/board.js -o /Users/ulugbekxabibov/Desktop/personal/visual/public/browser/bundle.js"
+  },
+  "author": "Habibov ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
